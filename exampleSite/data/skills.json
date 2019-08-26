@@ -1,0 +1,21 @@
+{
+	"title" : "Skills",
+	"skills" : [
+		{
+			"skill": "Sketch",
+			"value": "90"
+		},
+		{
+			"skill": "Adobe XD",
+			"value": "80"
+		},
+		{
+			"skill": "Illustrator",
+			"value": "65"
+		},
+		{
+			"skill": "Photoshop",
+			"value": "97"
+		}
+	]
+}
