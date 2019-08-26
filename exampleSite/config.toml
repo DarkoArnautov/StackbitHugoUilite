@@ -1,5 +1,5 @@
-baseURL = "https://example.com/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Valentina"
 theme = "StackbitHugoUilite"
-themesDir = "../.."
+themesDir = "./themes"
