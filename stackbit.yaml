@@ -53,6 +53,7 @@ models:
         label: Experience list
         items: 
           type: object
+          labelField: name
           fields: 
             - type: string
               name: timeperiod
@@ -107,7 +108,7 @@ models:
         name: displayPicture
         label: Display Picture
   skills:
-    type: data
+    type: object
     label: Skills Data
     file: data/skills.json
     fields:
@@ -119,10 +120,11 @@ models:
         label: Skills
         items:
           type: object
+          labelField: name
           fields:
             - type: string
               name: skill
-              label: Skill
+              label: Skill Name
             - type: number
               name: value
               label: Skill value
