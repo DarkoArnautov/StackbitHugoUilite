@@ -6,5 +6,5 @@ install:
   - tar -xzf tools/hugo.tar.gz -C tools
 
 script:
-  - git clone --depth 1 https://github.com/stackbithq/hugo-uilite.git exampleSite/themes/hugo-uilite
+  - git clone --depth 1 https://github.com/DarkoArnautov/StackbitHugoUilite.git exampleSite/themes/StackbitHugoUilite
   - ./tools/hugo -v --source exampleSite
