@@ -115,7 +115,7 @@ models:
         name: title
         label: Title
       - type: list
-        name: skills
+        name: skilllist
         label: Skills
         items:
           type: object

@@ -1,6 +1,6 @@
 {
 	"title" : "Skills",
-	"skills" : [
+	"skilllist" : [
 		{
 			"skill": "Sketch",
 			"value": "90"
